@@ -1,0 +1,274 @@
+{
+    "AUDI": [
+        "A3",
+        "A4",
+        "A5",
+        "Q3",
+        "Q5",
+        "Q7",
+        "Q8"
+    ],
+    "BMW": [
+        "X1",
+        "X3",
+        "X5"
+    ],
+    "CHANGAN": [
+        "CS35",
+        "UNI-T"
+    ],
+    "CHEVROLET": [
+        "AVEO",
+        "CAPTIVA",
+        "COLORADO",
+        "CRUZE",
+        "EQUINOX",
+        "N300",
+        "SONIC",
+        "SPARK",
+        "SUBURBAN",
+        "SWIFT",
+        "TAHOE",
+        "TRAVERSE",
+        "TRAX"
+    ],
+    "CITROEN": [
+        "BERLINGO",
+        "C-ELYSSE",
+        "C3",
+        "C4",
+        "C5",
+        "DS4"
+    ],
+    "DAIHATSU": [
+        "MIRA",
+        "TERIOS"
+    ],
+    "DODGE": [
+        "CALIBER",
+        "DURANGO",
+        "JOURNEY"
+    ],
+    "FIAT": [
+        "500",
+        "500C POP"
+    ],
+    "FORD": [
+        "BRONCO",
+        "EDGE",
+        "ESCAPE",
+        "EXPLORER",
+        "F-150",
+        "FOCUS",
+        "RANGER"
+    ],
+    "GMC": [
+        "WRANGLER"
+    ],
+    "HONDA": [
+        "ACCORD",
+        "CIVIC",
+        "CR-V",
+        "ODYSSEY",
+        "PILOT"
+    ],
+    "HYUNDAI": [
+        "ACCENT",
+        "CANTUS",
+        "ELANTRA",
+        "GRAND I 10",
+        "H-1",
+        "H-100",
+        "HD 65",
+        "I 10",
+        "I 20",
+        "I20 ACTIVE CROSS",
+        "PALISADE",
+        "SANTA FE",
+        "SONATA",
+        "TUCSON",
+        "VELOSTER",
+        "VENUE",
+        "VERNA"
+    ],
+    "INFINITI": [
+        "Q50",
+        "QX56",
+        "QX60",
+        "QX80"
+    ],
+    "ISUZU": [
+        "D-MAX",
+        "MU-X",
+        "NPR",
+        "NQR",
+        "TF"
+    ],
+    "JEEP": [
+        "CHEROKEE",
+        "COMPASS",
+        "GRAND CHEROKEE",
+        "LIBERTY",
+        "PATRIOT",
+        "WRANGLER"
+    ],
+    "KIA": [
+        "FRONTIER",
+        "K2700",
+        "K5",
+        "LOTZE",
+        "PICANTO",
+        "RIO",
+        "SELTOS",
+        "SOLUTO",
+        "SONET",
+        "SORENTO",
+        "SOUL",
+        "SPORTAGE"
+    ],
+    "LAND ROVER": [
+        "DISCOVERY",
+        "RANGE ROVER"
+    ],
+    "LEXUS": [
+        "ES 350",
+        "GX 460",
+        "GX 470",
+        "LX 570",
+        "RX 350",
+        "RX 450H"
+    ],
+    "MAZDA": [
+        "3",
+        "6",
+        "BT-50",
+        "CX - 7",
+        "CX 5",
+        "CX 90",
+        "CX-3",
+        "CX-9"
+    ],
+    "MERCEDES BENZ": [
+        "C 200",
+        "C 250",
+        "C 300",
+        "E 300",
+        "E 350",
+        "GL 350",
+        "GL 450",
+        "GLA200",
+        "GLE 350",
+        "GLE 43 AMG",
+        "GLE 450",
+        "GLE 53",
+        "GLS 450",
+        "ML 300",
+        "ML 350",
+        "S 500"
+    ],
+    "MG": [
+        "ZS"
+    ],
+    "MINI": [
+        "COOPER",
+        "COOPER S"
+    ],
+    "MITSUBISHI": [
+        "ENDEAVOR",
+        "FUSO",
+        "L200",
+        "LANCER",
+        "MONTERO",
+        "OUTLANDER",
+        "ROSA"
+    ],
+    "NISSAN": [
+        "D21",
+        "FRONTIER",
+        "KICKS",
+        "MARCH",
+        "MURANO",
+        "NAVARA",
+        "PATHFINDER",
+        "PATROL",
+        "QASHQAI",
+        "ROGUE",
+        "SAFARI",
+        "SENTRA",
+        "TIIDA",
+        "URVAN",
+        "VERSA",
+        "X-TERRA",
+        "X-TRAIL"
+    ],
+    "PEUGEOT": [
+        "2008",
+        "3008",
+        "307",
+        "PARTNER"
+    ],
+    "PORSCHE": [
+        "CAYENNE"
+    ],
+    "RENAULT": [
+        "DUSTER",
+        "KANGOO",
+        "KOLEOS",
+        "SANDERO"
+    ],
+    "SHINERAY": [
+        "A9"
+    ],
+    "SUBARU": [
+        "FORESTER"
+    ],
+    "SUZUKI": [
+        "APV",
+        "CIAZ",
+        "GRAND VITARA",
+        "JIMNY",
+        "SWIFT",
+        "VITARA",
+        "XL7"
+    ],
+    "TESLA": [
+        "MODEL 3",
+        "MODEL S",
+        "MODEL X",
+        "MODEL Y"
+    ],
+    "TOYOTA": [
+        "4 RUNNER",
+        "AGYA",
+        "CAMRY",
+        "COASTER",
+        "COROLLA",
+        "FJ CRUISER",
+        "FORTUNER",
+        "HIACE",
+        "HIGHLANDER",
+        "HILUX",
+        "LAND CRUISER",
+        "LAND CRUISER PRADO",
+        "RAV4",
+        "RAV4 HYBRID",
+        "RUSH",
+        "SIENNA",
+        "TACOMA",
+        "TUNDRA",
+        "YARIS"
+    ],
+    "VOLKSWAGEN": [
+        "AMAROK",
+        "JETTA",
+        "NIVUS",
+        "PASSAT",
+        "TIGUAN"
+    ],
+    "VOLVO": [
+        "S60",
+        "XC40",
+        "XC60",
+        "XC90"
+    ]
+}
